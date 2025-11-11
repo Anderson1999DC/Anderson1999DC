@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- Banner de boas-vindas -->
+<h1 align="center">👋 Olá, eu sou o Anderson Coelho!</h1>
+<h3 align="center"> Python |SQL|Power BI|Excel|R
+  
+---
 
-<!--
-**Anderson1999DC/Anderson1999DC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Sobre mim  
 
-Here are some ideas to get you started:
+Sou graduando em Ciência de dados pela Gran faculdade. Possuo interesse em trabalhar especificamente com IA, machine learning e Big data. Iniciei meus estudos em novembro de 2024 ainda sem experiência profissional, apenas pequenos(por enquanto) projetos nos quais eu busco para me desafiar e continuar em um contínuo aprendizado das ferramentas que utilizo. Busco oportunidades para colocar meus conhecimentos à prova no mercado de trabalho. Sou uma pessoa tranquila, fácil de lidar e comunicativo. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 Linguagens e Ferramentas que estou aprendendo  
+
+| Linguagem/Ferramenta | Nível Atual |
+|----------------------------|-------------|
+| **Python**   | Intermediário |
+| **R**   | Iniciante |
+| **GitHub**  | Iniciante |
+| **SQL**   | Iniciante |
+| **Power BI**   |Intermediário |
+| **Excel**   | Iniciante |
+
+---
+
+## ⚙️ Como utilizo este GitHub  
+
+📂 Publicação de projetos pessoais 
+
+📈 Cada repositório reflete uma etapa da minha jornada
+
+💡 Meu objetivo é transformar esse github em um portfólio que mostre a minha capacidade em transformar dados em insights valiosos. 
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="excel" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="50" height="50"/>
+</p>
+
+---
+
+## 🌐 Conecte-se comigo  
+
+
+  <a href="https://www.instagram.com/junior.anderson21/?igsh=MTF1dDdpY3ZhZG83dQ%3D%3D#">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/instagram.svg" alt="instagram" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anderson-coelho-42671634a/">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:andersoncoojr@gmail.com">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" alt="email" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson1999DC&theme=radical"/>
+</p>
+
+---
+
+⭐ *Sinta-se à vontade para explorar meus projetos, deixar um feedback ou se conectar comigo!*
