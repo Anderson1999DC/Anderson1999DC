@@ -64,7 +64,7 @@ Sou graduando em Ciência de dados pela Gran faculdade. Possuo interesse em trab
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson1999DC&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anderson1999DC&theme=github_dark"/>
 </p>
 
 ---
