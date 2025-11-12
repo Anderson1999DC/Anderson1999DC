@@ -55,7 +55,7 @@ Sou graduando em Ciência de dados pela Gran faculdade. Possuo interesse em trab
   <a href="https://www.linkedin.com/in/anderson-coelho-42671634a/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:andersoncoojr@gmail.com">
+  <a href="mailto:andersoncojr@gmail.com">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/gmail.svg" alt="email" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 
