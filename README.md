@@ -6,7 +6,7 @@
 
 ## 🧠 Sobre mim  
 
-Sou graduando em Ciência de dados pela Gran faculdade. Possuo interesse em trabalhar especificamente com IA, machine learning e Big data. Iniciei meus estudos em novembro de 2024 onde trabalho em cima de alguns projetos nos quais eu busco para me desafiar e continuar em um aprendizado contínuo das ferramentas que utilizo. Busco oportunidades para colocar meus conhecimentos à prova no mercado de trabalho. Sou uma pessoa tranquila, fácil de lidar e comunicativo. 
+Sou graduando em Ciência da computação pela Gran faculdade. Possuo interesse em trabalhar especificamente com IA, machine learning e Big data. Iniciei meus estudos em novembro de 2024 onde trabalho em cima de alguns projetos nos quais eu busco para me desafiar e continuar em um aprendizado contínuo das ferramentas que utilizo. Busco oportunidades para colocar meus conhecimentos à prova no mercado de trabalho. Sou uma pessoa tranquila, fácil de lidar e comunicativo. 
 
 ---
 
