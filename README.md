@@ -36,7 +36,6 @@ Sou graduando em Ciência da computação pela Gran faculdade. Possuo interesse 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="50" height="50"/>
   <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="excel" width="50" height="50"/>
