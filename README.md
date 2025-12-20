@@ -15,10 +15,9 @@ Sou graduando em Ciência da computação pela Gran faculdade. Possuo interesse 
 | Linguagem/Ferramenta | Nível Atual |
 |----------------------------|-------------|
 | **Python**   | Intermediário |
-| **R**   | Iniciante |
 | **GitHub**  | Iniciante |
 | **SQL**   | Iniciante |
-| **Power BI**   |Intermediário |
+| **Power BI**   |Iniciante |
 | **Excel**   | Iniciante |
 
 ---
