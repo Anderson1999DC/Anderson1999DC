@@ -1,6 +1,6 @@
 <!-- Banner de boas-vindas -->
 <h1 align="center">👋 Olá, eu sou o Anderson Coelho!</h1>
-<h3 align="center"> Python |SQL|Power BI|Excel|R
+<h3 align="center"> Python |SQL|Power BI|Excel
   
 ---
 
