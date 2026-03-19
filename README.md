@@ -15,15 +15,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou graduando em **Ciência da Computação (3º período)** com foco em **Ciência de Dados**. Tenho experiência prática em **Python, SQL, Pandas, Machine Learning (Regressão)** e **Power BI**, desenvolvendo projetos aplicados com:
-
-- **Coleta de dados via APIs**
-- **Data Cleaning / Data Wrangling**
-- **Análise Exploratória de Dados (EDA)**
-- **Feature Selection**
-- **Model Evaluation**
-- **Cross-validation**
-- Dashboards e KPIs no **Power BI**
+Graduando em Ciência da Computação (4° semestre) com foco em atuar na área de Dados, com experiência prática na análise e modelagem de dados para resolução de problemas de negócio. Atuo no desenvolvimento de soluções preditivas e analíticas para precificação, segmentação de usuários e identificação de fatores que impactam desempenho em e-commerce, marketing digital e mercado imobiliário. Experiência com Python, SQL e Machine Learning, aplicando técnicas de regressão, classificação e interpretação de modelos para geração de insights acionáveis e apoio à tomada de decisão. 
 
 Atualmente trabalho como **Técnico de Laboratório Hospitalar**, atuando com **controle de qualidade**, **rastreabilidade**, **organização de dados**, **indicadores** e uso frequente de **Excel**.
 
@@ -33,18 +25,13 @@ Atualmente trabalho como **Técnico de Laboratório Hospitalar**, atuando com **
 
 ## 🧠 Principais competências técnicas
 
-- **Linguagens:** Python, SQL  
-- **Bibliotecas:** Pandas, NumPy, Matplotlib, scikit-learn  
-- **BI & Dados:** Power BI (DAX, Power Query), PostgreSQL  
-- **Ferramentas:** Git/GitHub, Jupyter Notebook  
-- **Tópicos:** EDA, Regressão, Model Evaluation, Cross-validation, Data Cleaning, Data Wrangling  
-- **Coleta de Dados:** APIs (yfinance, fundamentus)
+Python | SQL | Pandas | NumPy | scikit-learn | Matplotlib | Power BI (DAX, Power Query) | PostgreSQL | Git/GitHub | Jupyter | Data Cleaning | Data Wrangling | EDA | Regressão | Feature Selection | Model Evaluation | Cross-validation | APIs (yfinance, fundamentus) | Hyperparameter Tuning | Feature Engineering 
 
 ---
 
 ## 📌 Como eu uso este GitHub
 
-📂 Este repositório contém projetos focados em **Ciência de Dados aplicada**, cobrindo desde coleta e tratamento até análise, modelagem e visualização.
+📂 Este repositório contém projetos focados em **Ciência de Dados**, cobrindo desde coleta e tratamento até análise, modelagem e visualização.
 
 📈 Meu objetivo é manter aqui um portfólio organizado, com projetos reais e evolutivos, demonstrando minha capacidade de transformar dados em análises úteis e aplicáveis.
 
