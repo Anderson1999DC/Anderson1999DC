@@ -68,6 +68,8 @@ Sou graduando em **Ciência da Computação** atualment no 4º semestre e tenho 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1999DC&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
+</div>
+
 ---
 
 ## Formação e Cursos
