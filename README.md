@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, sou Anderson Coelho 👋
+# Olá, sou Anderson Coelho 
 ### Cientista de Dados | Python · Machine Learning · SQL · Power BI
 
 <br>
@@ -16,11 +16,11 @@
 
 ## Sobre mim
 
-Desenvolvo projetos voltados para problemas reais, envolvendo coleta de dados via APIs, tratamento de bases, análise exploratória para identificação de padrões e outliers, e construção de modelos preditivos para previsão e suporte à decisão.
+Desenvolvo projetos voltados para problemas reais, envolvendo coleta de dados via APIs, tratamento de bases, análise exploratória para identificação de padrões e outliers, construção de modelos preditivos para previsão e suporte à decisão.
 
-Com esses projetos consolido conhecimentos em pipelines de dados, modelagem estatística e storytelling com dados, demonstrando evolução contínua e aplicação prática das principais ferramentas e conceitos matemáticos e estatísticos.
+Com esses projetos coloco a prova meus conhecimento em pipelines de dados, modelagem estatística e storytelling com dados, demonstrando evolução contínua e aplicação das principais ferramentas e conceitos matemáticos e estatísticos.
 
-Sou graduando em **Ciência da Computação** (4º semestre) com foco em Ciência de Dados, e busco uma **oportunidade de estágio ou posição Jr** para aplicar habilidades em modelagem, Machine Learning e experimentação, contribuindo com soluções que apoiem a tomada de decisão e gerem impacto real no negócio.
+Sou graduando em **Ciência da Computação** atualment no 4º semestre e tenho voltado meus estudos para Ciência de Dados, busco uma **oportunidade de estágio ou posição Jr** para aplicar habilidades em modelagem, Machine Learning e experimentação, contribuindo com soluções que apoiem a tomada de decisão e gerem impacto real no negócio.
 
 ---
 
@@ -45,8 +45,7 @@ Sou graduando em **Ciência da Computação** (4º semestre) com foco em Ciênci
 
 ---
 
-## O que faço na prática
-
+## O que faço 
 | Área | Técnicas e Ferramentas |
 |---|---|
 | **Coleta de Dados** | Consumo de APIs (yfinance, fundamentus), leitura de CSV/JSON |
@@ -61,77 +60,6 @@ Sou graduando em **Ciência da Computação** (4º semestre) com foco em Ciênci
 
 ---
 
-## Projetos em Destaque
-
-### 🏠 Prevendo Preços de Aluguel com Machine Learning
-Pipeline completo de ML para prever o valor de aluguel de apartamentos em São Paulo. Random Forest otimizado com GridSearchCV alcançou **RMSE de R$ 1.698** em dados de teste.
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anderson1999DC/Prevendo_Precos_de_Aluguel_de_Apartamentos_com_Machine_Learning)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random_Forest-28a745?style=flat-square)
-![GridSearchCV](https://img.shields.io/badge/GridSearchCV-6C757D?style=flat-square)
-
----
-
-### 🛍️ Análise de Produtos de Verão — Wish
-EDA + Random Forest + **SHAP Values** para identificar os fatores que determinam o sucesso de produtos em marketplace. Acurácia de 75% com insights acionáveis sobre precificação e reputação.
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anderson1999DC/analise-de-produtos-de-verao-wish)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-8B0000?style=flat-square)
-![Random Forest](https://img.shields.io/badge/Random_Forest-28a745?style=flat-square)
-
----
-
-### 📊 Regressão Logística — Predição de Cliques em Anúncios
-Modelo de classificação binária com **90% de acurácia** para prever se um usuário clicará em um anúncio, com aplicação direta em estratégias de segmentação de marketing digital.
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anderson1999DC/Regressao-logistica-para-predicao-de-cliques)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Classificação](https://img.shields.io/badge/Classificação_Binária-6C757D?style=flat-square)
-
----
-
-### 📈 Regressão Linear — E-commerce
-Análise de fatores que impactam o faturamento de clientes em e-commerce. O modelo revelou que o **app tem impacto 203x maior que o website** no valor gasto, orientando decisões estratégicas de produto.
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anderson1999DC/Regressao-Linear-em-dados-de-e-commerce)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Regressão Linear](https://img.shields.io/badge/Regressão_Linear-4A90D9?style=flat-square)
-
----
-
-### 🌍 Obesidade e PIB Per Capita — Análise de Correlação
-Investigação estatística em 193 países com **Correlação de Pearson de 0.9694** entre PIB per capita e taxas de obesidade, incluindo mapa coroplético animado com Plotly.
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anderson1999DC/Obesidade_e_PIB_per_capita)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Pearson](https://img.shields.io/badge/Pearson_0.97-28a745?style=flat-square)
-
----
-
-### 💹 Análise Financeira — Bulltrend
-Dashboard interativo em Power BI integrado com Python via ETL, cobrindo **análise fundamentalista e gráfica** de 9 ativos da B3 com dados coletados via APIs (yfinance + fundamentus).
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anderson1999DC/Analise_Financeira_Bulltrend)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![yfinance](https://img.shields.io/badge/yfinance-1A1A2E?style=flat-square)
-
----
-
-### 🏘️ Análise Exploratória Imobiliária
-EDA completa em 32.960 anúncios de imóveis do Rio de Janeiro — limpeza, feature engineering e entrega de datasets segmentados prontos para uso em modelos de ML e integração em plataformas.
-
-[![Repositório](https://img.shields.io/badge/Ver_Repositório-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anderson1999DC/Projeto-Imobiliaria)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-6C757D?style=flat-square)
-
----
 
 ## Formação e Cursos
 
@@ -150,8 +78,5 @@ EDA completa em 32.960 anúncios de imóveis do Rio de Janeiro — limpeza, feat
 ---
 
 <div align="center">
-
-*Aberto a oportunidades de estágio e posições Jr em Ciência de Dados*
-*Rio de Janeiro — RJ | andersoncojr@gmail.com*
 
 </div>
