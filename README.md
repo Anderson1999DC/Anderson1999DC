@@ -60,6 +60,15 @@ Sou graduando em **Ciência da Computação** atualment no 4º semestre e tenho 
 
 ---
 
+## Atividade no GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anderson1999DC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson1999DC&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+---
 
 ## Formação e Cursos
 
