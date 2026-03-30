@@ -24,12 +24,6 @@ Sou graduando em **Ciência da Computação** atualment no 4º semestre e tenho 
 
 ---
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Anderson1999DC&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 ## Stack Técnica
 
 <div align="center">
