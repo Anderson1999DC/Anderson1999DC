@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, sou Anderson Coelho 
+# Anderson Coelho 
 ### Cientista de Dados | Python · Machine Learning · SQL · Power BI
 
 <br>
