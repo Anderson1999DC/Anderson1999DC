@@ -18,14 +18,13 @@
 
 Desenvolvo projetos voltados para problemas reais, envolvendo coleta de dados via APIs, tratamento de bases, análise exploratória para identificação de padrões e outliers, construção de modelos preditivos para previsão e suporte à decisão.
 
-Com esses projetos coloco a prova meus conhecimento em pipelines de dados, modelagem estatística e storytelling com dados, demonstrando evolução contínua e aplicação das principais ferramentas e conceitos matemáticos e estatísticos.
+Com esses projetos coloco a prova meus conhecimento em pipelines de dados, modelagem estatística e storytelling com dados, aplicando todo o meu conhecimento com as principais ferramentas do mercado e conceitos matemáticos e estatísticos.
 
-Sou graduando em **Ciência da Computação** atualment no 4º semestre e tenho voltado meus estudos para Ciência de Dados, busco uma **oportunidade de estágio ou posição Jr** para aplicar habilidades em modelagem, Machine Learning e experimentação, contribuindo com soluções que apoiem a tomada de decisão e gerem impacto real no negócio.
+Sou graduando em **Ciência da Computação** atualment no 4º semestre e tenho voltado meus estudos para Ciência de Dados, busco uma **oportunidade de estágio ou posição Jr** para aplicar habilidades em modelagem, Machine Learning e experimentação, contribuindo com soluções que apoiem a tomada de decisão e gerem impacto no negócio.
 
 ---
 
 ## Stack Técnica
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,6 +34,9 @@ Sou graduando em **Ciência da Computação** atualment no 4º semestre e tenho 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -55,9 +57,9 @@ Sou graduando em **Ciência da Computação** atualment no 4º semestre e tenho 
 | **Modelagem Preditiva** | Regressão Linear/Logística, Decision Tree, Random Forest |
 | **Validação de Modelos** | Cross Validation, GridSearchCV, RMSE, MAE, F1, AUC |
 | **Explicabilidade** | SHAP Values, Feature Importances |
+| **Deploy de Modelos** | FastAPI, Docker, Render APIs REST em produção com documentação automática |
 | **Bancos de Dados** | SQL, PostgreSQL, otimização de consultas |
 | **Visualização** | Matplotlib, Seaborn, Plotly, Power BI (DAX, Power Query) |
-
 ---
 
 ## Formação e Cursos
@@ -73,6 +75,7 @@ Sou graduando em **Ciência da Computação** atualment no 4º semestre e tenho 
 | Análise Exploratória de Dados | Asimov Academy | Set/2025 |
 | Analisando Dados com Pandas & SQL | Asimov Academy | Set/2025 |
 | Modelagem de Dados Essencial | Xperiun | Mai/2025 |
+| Modelos de Classificação e Regressão | Asimov Academy | Mar/2026 |
 
 ---
 
