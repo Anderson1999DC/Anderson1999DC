@@ -66,16 +66,21 @@ Sou graduando em **Ciência da Computação** atualment no 4º semestre e tenho 
 
 | Curso | Instituição | Conclusão |
 |---|---|---|
-| Bacharelado em Ciência da Computação | Gran Faculdade | Nov/2028 |
-| Matemática para Análise de Dados | Asimov Academy | Dez/2025 |
+| Bacharelado em Ciência da Computação | Gran Faculdade | 2028 |
+| Matemática para Análise de Dados | Asimov Academy | 2025 |
 | Fundamentos de AI e Machine Learning | Asimov Academy | Dez/2025 |
-| SQL na prática: PostgreSQL e pgAdmin | Asimov Academy | Dez/2025 |
-| Python e Power BI: mercado financeiro | Alura | Dez/2025 |
-| Visualização de Dados com Seaborn | Asimov Academy | Nov/2025 |
-| Análise Exploratória de Dados | Asimov Academy | Set/2025 |
-| Analisando Dados com Pandas & SQL | Asimov Academy | Set/2025 |
-| Modelagem de Dados Essencial | Xperiun | Mai/2025 |
+| SQL na prática: PostgreSQL e pgAdmin | Asimov Academy | 2025 |
+| Python e Power BI: mercado financeiro | Alura | 2025 |
+| Visualização de Dados com Seaborn | Asimov Academy | 2025 |
+| Análise Exploratória de Dados | Asimov Academy | 2025 |
+| Analisando Dados com Pandas & SQL | Asimov Academy | 2025 |
+| Modelagem de Dados Essencial | Xperiun | 2025 |
 | Modelos de Classificação e Regressão | Asimov Academy | Mar/2026 |
+| Git e Github Controle de Versão e colaboração | Asimov Academy | 2026 |
+| Matemática para Ciência de Dados  | Alura | 2026 |
+| SQLite Consultas e instruções SQL | Alura | 2026 |
+| Fundamentos de Nuvem | Alura | 2026 |
+| Teste de Hipóteses | Alura | 2026 |
 
 ---
 
